@@ -7,7 +7,7 @@ const Clients = () =>{
                 <p className='text-[#717171] text-[11.14px] leading-[16.71px]'>We have been working with some Fortune 500+ clients</p>
             </div>
             <div className='flex justify-between items-center h-[68.21px] w-[801.87px] gap-[11.14px] py-[60px]'>
-                <img src="/Logo.png" alt=""  />
+                <img src="/LogoLogo.png" alt=""  />
                 <img src="/logo-2.png" alt="" />
                 <img src="/logo-3.png" alt="" />
                 <img src="/logo-4.png" alt="" />
