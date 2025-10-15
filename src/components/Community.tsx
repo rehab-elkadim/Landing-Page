@@ -82,7 +82,7 @@ const Community = () => {
 
  <div className='flex flex-row justify-center items-center gap-[40px] px-[100.23px] py-[40px]'>
   <img
-    src="/2nd.png"
+    src="/rafiki.png"
     alt=""
     className="object-contain"
   />
