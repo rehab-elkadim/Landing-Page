@@ -21,11 +21,11 @@ const Community = () => {
         <div className='flex flex-col justify-center items-center py-[22.27px] px-[16.71px] w-[208.12px] text-center'>
           <div className='relative w-[208.12px] h-[40px] flex justify-center'>
             <img
-              src="../public/communities/Rectangle1.png"
+              src="/Rectangle1.png"
               className="absolute top-0 "
             />
             <img
-              src="../public/communities/icon.png"
+              src="/icon.png"
               className="absolute top-[-8px] left-[76px] "
             />
           </div>
@@ -41,11 +41,11 @@ const Community = () => {
         <div className='flex flex-col justify-center items-center py-[22.27px] px-[16.71px] w-[208.12px] text-center'>
           <div className='relative w-[208.12px] h-[40px] flex justify-center'>
             <img
-              src="../public/communities/Rectangle1.png"
+              src="/Rectangle1.png"
               className="absolute top-0"
             />
             <img
-              src="../public/communities/2 (2).png"
+              src="/2 (2).png"
               className="absolute top-[-8px] left-[76px]"
             />
           </div>
@@ -61,11 +61,11 @@ const Community = () => {
         <div className='flex flex-col justify-center items-center py-[22.27px] px-[16.71px] w-[208.12px] text-center'>
           <div className='relative w-[208.12px] h-[40px] flex justify-center'>
             <img
-              src="../public/communities/Rectangle1.png"
+              src="/Rectangle1.png"
               className="absolute top-[0px]  "
             />
             <img
-              src="../public/communities/2 (1).png"
+              src="/2 (1).png"
               className="absolute top-[-8px] left-[76px]"
             />
           </div>
@@ -82,7 +82,7 @@ const Community = () => {
 
  <div className='flex flex-row justify-center items-center gap-[40px] px-[100.23px] py-[40px]'>
   <img
-    src="../public/communities/2nd.png"
+    src="/2nd.png"
     alt=""
     className="object-contain"
   />
