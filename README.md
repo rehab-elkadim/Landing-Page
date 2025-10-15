@@ -1,7 +1,7 @@
 
 
 ````markdown
-# 🌐 Minimal Landing Page – React Implementation
+# 🌐 Landing Page – React Implementation
 
 ### 🎯 Project Mission  
 The goal of this project was to **accurately translate a Figma design** into a fully functional, responsive **React landing page**.  
@@ -15,7 +15,7 @@ This project demonstrates **pixel-perfect UI implementation**, attention to desi
 ---
 
 ### 🚀 Live Demo  
-🔗 **[View Deployed Project](https://YOUR_DEPLOYMENT_LINK_HERE)**  
+🔗 **[View Deployed Project](https://landing-page-bay-nu-12.vercel.app/)**  
 (Replace with your actual Netlify/Vercel deployment URL)
 
 ---
