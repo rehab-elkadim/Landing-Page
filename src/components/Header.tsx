@@ -13,7 +13,7 @@ const Header = () => {
       </ul>
 <button className="flex items-center gap-2 bg-[#4CAF4F] text-white ml-6 py-2 px-5">
   Register Now
-  <img src="/right.png" alt="right arrow" className="w-2.85 h-2.85" />
+  <img src="/Right.png" alt="right arrow" className="w-2.85 h-2.85" />
 </button>
 
     </nav>
