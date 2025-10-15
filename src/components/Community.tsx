@@ -25,7 +25,7 @@ const Community = () => {
               className="absolute top-0 "
             />
             <img
-              src="/icon.png"
+              src="/Icon.png"
               className="absolute top-[-8px] left-[76px] "
             />
           </div>

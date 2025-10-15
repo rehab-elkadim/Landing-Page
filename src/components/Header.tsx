@@ -3,7 +3,7 @@ const Header = () => {
   return (
     <>
     <nav className='flex flex-row justify-between items-center px-[100px] py-4'>
-<img src="/logo.png" alt="Logo" className=" w-[107px] h-4 " />
+<img src="/Logo.png" alt="Logo" className=" w-[107px] h-4 " />
       <ul className='flex gap-6 justify-end flex-1 '>
         <li>Home</li>
         <li>Features</li>
