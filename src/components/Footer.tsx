@@ -1,14 +1,11 @@
-import React from 'react';
 
 const Footer = () => {
     return (
         <div className='bg-[#263238] text-white py-[62px] px-[165px] sm:px-8 md:px-16'>
             <div className='flex flex-col gap-[55px] md:flex-row md:justify-between'>
 
-                {/* Column 1: Logo, Copyright & Social Icons */}
                 <div className='flex flex-col gap-[38px] w-full md:w-[250px]'>
                     
-                    {/* Logo Area */}
                     <div className='flex items-center gap-[10px]'>
                         <svg className='h-[32px] w-[32px] text-[#4CAF4F]' viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M16 0L0 8L0 24L16 32L32 24L32 8L16 0ZM16 3.69L28.16 9.84L16 16.03L3.84 9.84L16 3.69ZM2.61 11.23L14.77 17.42L14.77 28.31L2.61 22.12L2.61 11.23ZM17.23 28.31L17.23 17.42L29.39 11.23L29.39 22.12L17.23 28.31Z" fill="currentColor"/>
